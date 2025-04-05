@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sajjad</h1>
-<h3 align="center">A passionate front-end developer</h3>
+<h3 align="center">a passionate Front-End Developer with a strong background in Android development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajjad-alizadeh&label=Profile%20views&color=0e75b6&style=flat" alt="sajjad-alizadeh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajjad-alizadeh" alt="sajjad-alizadeh" /></a> </p>
 
-- 🌱 I’m currently learning **Frameworks**
+- 🔭 Currently working on modern, scalable web applications using **React**, **Next.js**, and **TypeScrip**t.
 
-- 💬 Ask me about **JS, React, NextJS**
+- 🎯 Interested in UX-focused development, performance optimization, and building real-world digital products.  
 
-- 📫 How to reach me **sajjadalizzh@gmail.com**
+- 📫 Reach me at: **sajjadalizzh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
